@@ -1,0 +1,8 @@
+[project]
+name = "career-mate"
+version = "0.1.0"
+description = "CareerMate AI career recommendation service"
+requires-python = ">=3.13"
+dependencies = [
+    "google-genai"
+]
